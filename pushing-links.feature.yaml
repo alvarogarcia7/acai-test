@@ -1,5 +1,5 @@
 feature:
-    name: pushing entries of type HN
+    name: pushing-entries-of-type-HN
     product: google-notes-exporter
     description: This is an example feature
 
