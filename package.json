@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@acai.sh/cli": "^0.0.3"
+  }
+}
